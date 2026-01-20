@@ -6,4 +6,6 @@ The program creates a Student class with attributes for name, age, and course, a
 In the main method, the program creates two Student objects with different values and displays their details.
 
 **OUTPUT**
+
+
 <img width="539" height="239" alt="image" src="https://github.com/user-attachments/assets/a76663ff-6f9b-4942-83f7-2d17b8e21a3a" />
